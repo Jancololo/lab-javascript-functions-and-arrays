@@ -174,7 +174,7 @@ const matrix = [
   [1, 70, 54, 71, 83, 51, 54, 69, 16, 92, 33, 48, 61, 43, 52, 1, 89, 19, 67, 48]
 ];
 
-
+//I didn't get to finish that one
 function greatestProduct(matrix) {
   let adjacentsRowProduct = [];
   let adjacentsColumnProduct = [];
